@@ -2,7 +2,7 @@
 
 
 <h2> Hello! I'm Caio Potter! 👋</h2>
-<p><em>Junior Frontend Developer at <a href="https://www.intelie.com.br/">Intelie</a>
+<p><em>Jr Frontend Developer at <a href="https://www.intelie.com.br/">Intelie</a>
 </em></p>
 <p><em>Learning <a href="https://reactjs.org/">React.js</a> and <a href="https://vuejs.org/">Vue.js</a>
 </em></p>
