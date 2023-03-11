@@ -2,7 +2,7 @@
 
 
 <h2> Hello! I'm Caio Potter! 👋</h2>
-<p><em>FullStack Developer at <a href="https://www.rio.rj.gov.br/web/rioeduca/sme/">SME RJ</a>
+<p><em>FullStack Developer at <a href="https://www.dn.senac.br/">SENAC</a>
 </em></p>
 <p><em>Learning <a href="https://reactjs.org/">React.js</a> and <a href="https://vuejs.org/">Vue.js</a>
 </em></p>
